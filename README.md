@@ -8,23 +8,16 @@
 
 Material:
 
-    40mm rubber seal
-
-    A-Lok/CPI Barbed Connector 6-6 B2HF-SS (e.g. https://valinonline.com/products/6-6-b2hf-ss). 
-
-    Rubber/silicon sheet (to create the gasket)
-
-    M4x20 Bolts (5x)
-
-    M4 nuts (5x)
-
-    M4 Washers (10x)
+* 40mm rubber seal
+* A-Lok/CPI Barbed Connector 6-6 B2HF-SS (e.g. https://valinonline.com/products/6-6-b2hf-ss)
+* Rubber/silicon sheet (to create the gasket)
+* M4x20 Bolts (5x)
+* M4 nuts (5x)
+* M4 Washers (10x)
 
 Devices:
-
-    3D printer
-
-    Laser Cutter/Engraver
+* 3D printer
+* Laser Cutter/Engraver
 
 
 

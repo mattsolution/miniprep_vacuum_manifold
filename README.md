@@ -19,6 +19,20 @@ Devices:
 * 3D printer
 * Laser Cutter/Engraver
 
+## Printing and cutting
+
+<p align="justify">The manifold itself is designed for 3D printing, suitable for both FDM and SLA printers.The upper section of the manifold is intended to be cut from a 4mm or 5mm acrylic plate using a laser cutter/engraver, while the gasket should be cut from a rubber or silicone sheet.</p>
+
+## Assembly
+
+<p align="justify">The manifold and acrylic plate are assembled with a gasket placed between them to ensure a proper vacuum seal. Alternatively, vacuum silicone grease can be used instead of the gasket. Both parts are secured together using five M4x20 bolts. The manifold's vacuum outlet lacks threads. To attach it, warm up the A-Lok/CPI Barbed Connector and screw it into the hole. A 40mm rubber seal is employed to ensure a reliable seal between the bottle and the manifold.</p>
+
+## 3D models and laser cuttin files
+Avalilable on Thingiverse at this [link](https://www.thingiverse.com/thing:6215450)
+STL model
+
+## Attribution and license
+Minfold © 2023 by Matteo Scarsini is licensed under CC BY-NC-SA 4.0. To view a copy of this license, [visit creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
 

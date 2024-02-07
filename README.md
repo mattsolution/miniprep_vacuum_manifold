@@ -1,4 +1,10 @@
-# Vacuum manifold for minipreps
+# Vacuum manifold for miniprep
+
+<p align="center">
+  <img src="images/Vacuum_manifold.png" width="300px" />
+</div>
+<p align="center">Figure 1: An exploded view of the Skotobx</p>
+
 ## Description
 <p align="justify">Mini-prep, short for "mini-preparation," is a molecular biology technique used to extract and purify plasmid DNA from bacterial cells. In this method, bacterial cells are harvested, lysed, and the resulting lysate is loaded onto a specialized column filled with a resin that selectively binds DNA. After washing away impurities, the purified plasmid DNA is eluted from the column using a buffer. This column-based mini-prep is favored for its simplicity, speed, and high DNA purity, making it suitable for various downstream applications, such as cloning, sequencing, and gene analysis. The method can be performed using a centrifuge or vacuum manifolds to facilitate the flow of solutions through the specialized column.</p>
 

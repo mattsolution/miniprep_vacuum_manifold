@@ -26,7 +26,7 @@ Devices:
 
 ## Printing and cutting
 
-<p align="justify">The manifold itself is designed for 3D printing, suitable for both FDM and SLA printers.The upper section of the manifold is intended to be cut from a 4mm or 5mm acrylic plate using a laser cutter/engraver, while the gasket should be cut from a rubber or silicone sheet.</p>
+<p align="justify">The manifold itself is designed for 3D printing, suitable for both FDM and SLA printers.The upper section of the manifold is intended to be cut from a 4mm or 5mm acrylic plate using a laser cutter/engraver, while the gasket should be cut from a rubber or silicone sheet. Be careful, when laser-cutting these types of material ensure a proper ventilation in order to avoid the generated hazardous dust and gasses. </p>
 
 ## Assembly
 

@@ -37,7 +37,7 @@ Devices:
 </div>
 <p align="center">Acrylic plate and gasket designs for laser cutting</p>
 
-<p align="justify">The diameter of holes can be changed by modifying the SVG file with inkscape (or an alternative). Alternatively you can contact me on [my linkedin account](https://www.linkedin.com/in/matteo-scarsini-24a036126/)</p>
+The diameter of holes can be changed by modifying the SVG file with inkscape (or an alternative). Alternatively you can contact me on [my linkedin account](https://www.linkedin.com/in/matteo-scarsini-24a036126/)
 
 ## 3D models and laser cuttin files
 Avalilable on Thingiverse at this [link](https://www.thingiverse.com/thing:6215450)

@@ -43,7 +43,7 @@ Avalilable on Thingiverse at this [link](https://www.thingiverse.com/thing:62154
 <a href="VacuumManifold.STL" download>STL model view</a>
 
 ## Attribution and license
-This models are licensed under CC BY-NC-SA 4.0. To view a copy of this license, [visit creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+This models are licensed under CC BY-NC-SA 4.0 and thus free to use and modify. To view a copy of this license, [visit creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
 

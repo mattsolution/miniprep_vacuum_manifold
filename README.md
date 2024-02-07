@@ -32,6 +32,11 @@ Devices:
 
 <p align="justify">The manifold and acrylic plate are assembled with a gasket placed between them to ensure a proper vacuum seal. Alternatively, vacuum silicone grease can be used instead of the gasket. Both parts are secured together using five M4x20 bolts. The manifold's vacuum outlet lacks threads. To attach it, warm up the A-Lok/CPI Barbed Connector and screw it into the hole. A 40mm rubber seal is employed to ensure a reliable seal between the bottle and the manifold.</p>
 
+<p align="center">
+  <img src="images/AcrylicPlate_and_gasket.png" width="1000px" />
+</div>
+<p align="center">Acrylic plate and gasket designs for laser cutting</p>
+
 ## 3D models and laser cuttin files
 Avalilable on Thingiverse at this [link](https://www.thingiverse.com/thing:6215450)
 

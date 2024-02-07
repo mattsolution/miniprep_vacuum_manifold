@@ -40,7 +40,7 @@ Devices:
 ## 3D models and laser cuttin files
 Avalilable on Thingiverse at this [link](https://www.thingiverse.com/thing:6215450)
 
-STL model
+<a href="VacuumManifold.STL" download>STL model view</a>
 
 ## Attribution and license
 Minfold © 2023 by Matteo Scarsini is licensed under CC BY-NC-SA 4.0. To view a copy of this license, [visit creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
